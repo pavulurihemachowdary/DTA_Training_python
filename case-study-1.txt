@@ -1,0 +1,12 @@
+[
+    {
+        "uname": "hema",
+        "pwd": "6789",
+        "sec_ans": "blue"
+    },
+    {
+        "uname": "raj",
+        "pwd": "1234",
+        "sec_ans": "red"
+    }
+]

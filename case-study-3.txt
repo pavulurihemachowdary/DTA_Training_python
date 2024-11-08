@@ -1,0 +1,16 @@
+[
+    {
+        "uname": "hema",
+        "pwd": "1234",
+        "sec_ans": "blue",
+        "balance": 7500,
+        "fund": 500
+    },
+    {
+        "uname": "sankar",
+        "pwd": "1976",
+        "sec_ans": "yellow",
+        "balance": 2000,
+        "fund": 0
+    }
+]
